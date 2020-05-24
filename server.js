@@ -19,10 +19,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
 });
 
 // routes
-
-// Creating Routes
-// require("./routes/api")(app);
-// require("./routes/html")(app);
 app.use(require("./routes/api"));
 app.use(require("./routes/html"));
 
