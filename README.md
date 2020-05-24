@@ -1,8 +1,9 @@
 # Exercise-Tracker
-Track Exercise Routines with a graphic user interface.
+Track Exercise Routines with a graphic user interface. User can update/complete their current workout, create a new workout, and visualize their weekly activity (including by type).
 
 ## Deploy:
 *   using CLI: ```npm start``` or ```node server.js```
+*   run seeds: ```"node seeders/seed.js``` to visualize without entering data.
 
 ## Architecture
 **_Wireframe_**
