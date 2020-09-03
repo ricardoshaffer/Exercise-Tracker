@@ -4,6 +4,7 @@ Track Exercise Routines with a graphic user interface. User can update/complete 
 ## Deploy:
 *   using CLI: ```npm start``` or ```node server.js```
 *   run seeds: ```"node seeders/seed.js``` to visualize without entering data.
+*   Deployed at:  https://ancient-temple-83211.herokuapp.com/
 
 ## Architecture
 **_Wireframe_**
